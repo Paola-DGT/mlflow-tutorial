@@ -1,1 +1,6 @@
 /outputs/
+/mlruns/
+/images/
+/data_processed/
+/.ipynb_checkpoints/
+.idea/
